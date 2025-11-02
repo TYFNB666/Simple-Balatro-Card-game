@@ -16,7 +16,7 @@
 * `cards.py` – card, suit, and hand types
 * `scoring.py` – hand check and score logic
 
-### Basic rules (quick)
+### Basic rules
 
 * Start hand: **7 cards**
 * Each play: choose **1–5** cards to play
